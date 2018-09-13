@@ -1,2 +1,2 @@
-# teleginzhenya.github.io
+# korzhik.github.io
 My personal Homepage
