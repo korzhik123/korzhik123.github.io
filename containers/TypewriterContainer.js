@@ -9,31 +9,26 @@ const DELAY_BETWEEN_WORDS = 2000;
 const DELAY_BETWEEN_BACKSPACE = 75;
 
 const CONTENT = [
-  { icon: ["fas", "angle-right"], text: "Evgeniy Telegin" },
+  { icon: ["fas", "angle-right"], text: "Olzhas Aitbekov" },
   {
     icon: ["fab", "github"],
-    text: "teleginzhenya",
-    link: "https://github.com/teleginzhenya"
-  },
-  {
-    icon: ["fab", "stack-overflow"],
-    text: "7887530",
-    link: "https://stackoverflow.com/users/7887530/zhenya-telegin"
+    text: "korzhik123",
+    link: "https://github.com/korzhik123"
   },
   {
     icon: ["fab", "linkedin"],
-    text: "evgeniytelegin",
-    link: "https://www.linkedin.com/in/evgeniytelegin/"
+    text: "oaitbekov",
+    link: "https://www.linkedin.com/in/oaitbekov/"
   },
   {
     icon: ["fab", "telegram"],
-    text: "@zhenyatelegin",
-    link: "http://telegram.me/zhenyatelegin"
+    text: "@korzhik123",
+    link: "http://telegram.me/korzhik123"
   },
   {
     icon: ["fas", "envelope"],
-    text: "telegin.zhenya@gmail.com",
-    link: "mailto:telegin.zhenya@gmail.com"
+    text: "oaitbekov@gmail.com",
+    link: "mailto:oaitbekov@gmail.com"
   }
 ];
 
