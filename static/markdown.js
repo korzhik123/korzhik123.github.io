@@ -9,7 +9,7 @@ Contact Info:
 
 Work Authorization: Permanent resident (Green Card)
 
-Currently in San Francisco
+Currently in San Francisco, CA
 
 Recently BS Software Engineer graduate offering strong foundation in programming principles across multiple platforms. Always interested in developing new software products and working in the team environment. I believe that my experience and knowledge acquired at the university may be useful for a position in your company.
 
