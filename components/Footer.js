@@ -29,7 +29,7 @@ const Footer = () => (
   <FooterContainer style={{ textAlign: "center" }}>
     Made with <StyledHearth icon="heart" size="xs" />
     {` in `}
-    <A href="https://en.wikipedia.org/wiki/Almaty">Almaty</A>
+    <A>San Francisco, CA</A>
   </FooterContainer>
 );
 

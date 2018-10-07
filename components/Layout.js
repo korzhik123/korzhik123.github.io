@@ -78,7 +78,7 @@ Layout.propTypes = {
 };
 
 Layout.defaultProps = {
-  title: "teleginzhenya.github.io",
+  title: "korzhik123.github.io",
   isLogoHomeLink: false
 };
 

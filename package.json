@@ -1,5 +1,5 @@
 {
-  "name": "teleginzhenya.github.io",
+  "name": "korzhik123.github.io",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "description": "My personal Homepage",
   "main": "index.js",
-  "author": "teleginzhenya",
+  "author": "Olzhas Aitbekov",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",

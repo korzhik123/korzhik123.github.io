@@ -6,7 +6,7 @@ import Markdown from "../components/Markdown";
 import { HOME_MARKDOWN } from "../static/markdown";
 
 const HomePage = () => (
-  <Layout title="Evgeniy Telegin — developer">
+  <Layout title="Olzhas Aitbekov — developer">
     <Markdown markdown={HOME_MARKDOWN} />
   </Layout>
 );

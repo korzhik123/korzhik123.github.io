@@ -31,7 +31,7 @@ class Project extends React.Component {
 
     return (
       <Layout
-        title={`${project.name} — Evgeniy Telegin`}
+        title={`${project.name} — Olzhas Aitbekov`}
         isLogoHomeLink
         isDarkMode={this.state.isDarkMode}
       >
